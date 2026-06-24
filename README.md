@@ -22,7 +22,6 @@ Aspiring Software Developer passionate about Python, SQL, AI, and Web Developmen
 
 # Currently Learning
 
-* Flask
 * AI Application Development
 * API Integration
 
